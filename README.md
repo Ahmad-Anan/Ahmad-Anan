@@ -1,3 +1,4 @@
+<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <h3 align="center">
   Welcome to Ahmed Anan's profile!
@@ -18,8 +19,7 @@
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 
-## 🌐 Linked-In:
-<a href="https://linkedin.com/in/ahmed-anan-285364273/" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Anan-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+## 🌐 Social:
 <a href="https://linkedin.com/in/ahmed-anan-285364273/" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Anan-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 
